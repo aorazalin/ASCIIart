@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\firstProject\firstProject\main.cpp(36,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  firstProject.vcxproj -> C:\Users\Asus\source\repos\firstProject\x64\Debug\firstProject.exe
